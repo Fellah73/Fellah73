@@ -54,7 +54,9 @@
   [![Uppwrok](https://img.icons8.com/?size=50&id=HKdmFbFm7xQV&format=png&color=000000)](https://www.upwork.com/freelancers/~0162ac80466bc23f26)&nbsp;
   [![Gmail](https://img.icons8.com/?size=50&id=P7UIlhbpWzZm&format=png&color=000000)](mailto:mohdev2025@gmail.com)&nbsp;
   [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/mouh_flh)&nbsp;
-  [![Discord](https://static.vecteezy.com/system/resources/previews/006/892/625/non_2x/discord-logo-icon-editorial-free-vector.jpg)](https://discord.com/users/1022462442917343282)&nbsp;
+   <a href="https://discord.com/users/1022462442917343282" target="_blanck"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Facebook_logo_%28square%29.png" alt="discord" width="42" height="42"/>       <a/>
+
+  
 
 <hr>
 
