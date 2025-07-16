@@ -39,6 +39,15 @@
   <img src="https://www.svgrepo.com/show/303303/oracle-6-logo.svg" alt="c" width="42" height="42" />
 </p>
 <hr>
+<h3> Other Tools </h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=git" alt="c" width="42" height="42" />
+  <img src="https://skillicons.dev/icons?i=vercel" alt="c" width="42" height="42" />
+  <img src="https://skillicons.dev/icons?i=postman" alt="c" width="42" height="42" />
+  <img src="https://skillicons.dev/icons?i=vscode" alt="c" width="42" height="42" />
+  <img src="https://skillicons.dev/icons?i=prisma" alt="c" width="42" height="42" />
+</p>
+<hr>
 <h2>✒️ Recent Posts</h2>
 <ul>
 <h2>⚡️ Where to find me</h2>
