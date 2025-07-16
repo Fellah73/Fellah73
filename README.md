@@ -48,8 +48,16 @@
   <img src="https://skillicons.dev/icons?i=prisma" alt="c" width="42" height="42" />
 </p>
 <hr>
-<h2>✒️ Recent Posts</h2>
-<ul>
-<h2>⚡️ Where to find me</h2>
-<p><a target="_blank" href="https://www.instagram.com/https://www.instagram.com/mouh_flh" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a></p>
+<h3> Contact Me </h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=instagram" alt="c" width="42" height="42" />
+  <img src="https://skillicons.dev/icons?i=upwork" alt="c" width="42" height="42" />
+  <img src="https://skillicons.dev/icons?i=gmail" alt="c" width="42" height="42" />
+  <img src="https://skillicons.dev/icons?i=facebook" alt="c" width="42" height="42" />
+  <img src="https://skillicons.dev/icons?i=linktree" alt="c" width="42" height="42" />
+</p>
+<hr>
+
+
+
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Fellah73&show_icons=true&locale=en&layout=compact" alt="Fellah73" /></p>
