@@ -9,9 +9,18 @@
   <img src="https://skillicons.dev/icons?i=js" alt="c" width="42" height="42" />
   <img src="https://skillicons.dev/icons?i=ts" alt="c" width="42" height="42" />
   <img src="https://skillicons.dev/icons?i=tailwind" alt="c" width="42" height="42" />
-  <img src="https://skillicons.dev/icons?i=bootsrap" alt="c" width="42" height="42" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" alt="c" width="42" height="42" />
   <img src="https://skillicons.dev/icons?i=react" alt="c" width="42" height="42" />
   <img src="https://skillicons.dev/icons?i=next" alt="c" width="42" height="42" />
+</p>
+<hr>
+<p> Back End </p>
+<br>
+<p>
+  <img src="https://skillicons.dev/icons?i=expressjs" alt="c" width="42" height="42" />
+  <img src="https://skillicons.dev/icons?i=nestjs" alt="c" width="42" height="42" />
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="c" width="42" height="42" />
+  <img src="https://skillicons.dev/icons?i=flask" alt="c" width="42" height="42" />
 </p>
 <hr>
 <h2>✒️ Recent Posts</h2>
