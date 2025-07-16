@@ -49,11 +49,11 @@
 </p>
 <hr>
 <h3> Contact Me </h3>
-<p>
+
   [![GitHub](https://img.icons8.com/?size=50&id=12599&format=png&color=000000)](https://github.com/Chakibcerna22)&nbsp;
   [![Uppwrok](https://img.icons8.com/?size=50&id=HKdmFbFm7xQV&format=png&color=000000)](https://www.upwork.com/freelancers/~01df93a6e7ff3e589b)&nbsp;
   [![Gmail](https://img.icons8.com/?size=50&id=P7UIlhbpWzZm&format=png&color=000000)](mailto:grabachakib555@gmail.com)&nbsp;
-</p>
+
 <hr>
 
 
