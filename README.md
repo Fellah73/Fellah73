@@ -3,9 +3,7 @@
 <h2>🛠️ Languages and Tools I Use</h2>
 <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px; margin: 20px 0;">
 
-<div>
-
-### Languages 
+<div> 
 <p>
   <img src="https://skillicons.dev/icons?i=c" alt="c" width="42" height="42" />
   <img src="https://skillicons.dev/icons?i=java" alt="java" width="42" height="42" />
