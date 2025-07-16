@@ -50,11 +50,9 @@
 <hr>
 <h3> Contact Me </h3>
 <p>
-  <img src="https://skillicons.dev/icons?i=instagram" alt="c" width="42" height="42" />
-  <img src="https://skillicons.dev/icons?i=upwork" alt="c" width="42" height="42" />
-  <img src="https://skillicons.dev/icons?i=gmail" alt="c" width="42" height="42" />
-  <img src="https://skillicons.dev/icons?i=facebook" alt="c" width="42" height="42" />
-  <img src="https://skillicons.dev/icons?i=linktree" alt="c" width="42" height="42" />
+  [![GitHub](https://img.icons8.com/?size=50&id=12599&format=png&color=000000)](https://github.com/Chakibcerna22)&nbsp;
+  [![Uppwrok](https://img.icons8.com/?size=50&id=HKdmFbFm7xQV&format=png&color=000000)](https://www.upwork.com/freelancers/~01df93a6e7ff3e589b)&nbsp;
+  [![Gmail](https://img.icons8.com/?size=50&id=P7UIlhbpWzZm&format=png&color=000000)](mailto:grabachakib555@gmail.com)&nbsp;
 </p>
 <hr>
 
