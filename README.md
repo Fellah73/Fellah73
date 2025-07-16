@@ -50,10 +50,10 @@
 <hr>
 <h3> Contact Me </h3>
 
-  [![Facebook](https://img.icons8.com/?size=50&id=12599&format=png&color=000000)](https://www.facebook.com/profile.php?id=61576388386961)&nbsp;
+  [![Facebook](https://skillicons.dev/icons?i=facebook)](https://www.facebook.com/profile.php?id=61576388386961)&nbsp;
   [![Uppwrok](https://img.icons8.com/?size=50&id=HKdmFbFm7xQV&format=png&color=000000)](https://www.upwork.com/freelancers/~0162ac80466bc23f26)&nbsp;
   [![Gmail](https://img.icons8.com/?size=50&id=P7UIlhbpWzZm&format=png&color=000000)](mailto:mohdev2025@gmail.com)&nbsp;
-  [![Instagram](https://img.icons8.com/?size=50&id=P7UIlhbpWzZm&format=png&color=000000)](https://www.instagram.com/mouh_flh)&nbsp;
+  [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/mouh_flh)&nbsp;
   [![Discord](https://img.icons8.com/?size=50&id=P7UIlhbpWzZm&format=png&color=000000)](https://discord.com/users/1022462442917343282)&nbsp;
 
 <hr>
