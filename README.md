@@ -1,8 +1,7 @@
 <h1>Hi, I'm Fellah Mohamed 👋 - A Passionate Full-Stack Developer</h1>
 <p>I'm a 3rd year Software Engineering student passionate about full-stack web development. I have solid experience working with technologies like React, Next.js, Express.js, and NestJS, along with databases such as MongoDB and MySQL. I enjoy building modern, high-performance web applications with clean architecture and best development practices. Constantly learning and exploring new tools, I work on personal projects to sharpen my skills and stay up to date with the latest in tech.</p>
 <h2>🛠️ Languages and Tools I Use</h2>
-<p> Front End </p>
-<br>
+<h3> Front End </h3>
 <p>
   <img src="https://skillicons.dev/icons?i=html" alt="c" width="42" height="42" />
   <img src="https://skillicons.dev/icons?i=css" alt="c" width="42" height="42" />
@@ -14,13 +13,19 @@
   <img src="https://skillicons.dev/icons?i=next" alt="c" width="42" height="42" />
 </p>
 <hr>
-<p> Back End </p>
-<br>
+<h3> Back End </h3>
 <p>
   <img src="https://skillicons.dev/icons?i=expressjs" alt="c" width="42" height="42" />
   <img src="https://skillicons.dev/icons?i=nestjs" alt="c" width="42" height="42" />
   <img src="https://skillicons.dev/icons?i=nodejs" alt="c" width="42" height="42" />
   <img src="https://skillicons.dev/icons?i=flask" alt="c" width="42" height="42" />
+</p>
+<hr>
+<h3> Database </h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" alt="c" width="42" height="42" />
+  <img src="https://skillicons.dev/icons?i=postgresql" alt="c" width="42" height="42" />
+  <img src="https://skillicons.dev/icons?i=sqlite" alt="c" width="42" height="42" />
 </p>
 <hr>
 <h2>✒️ Recent Posts</h2>
