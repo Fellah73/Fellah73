@@ -1,9 +1,10 @@
 <h1>Hi, I'm Fellah Mohamed 👋 - A Passionate Full-Stack Developer</h1>
 <p>I'm a 3rd year Software Engineering student passionate about full-stack web development. I have solid experience working with technologies like React, Next.js, Express.js, and NestJS, along with databases such as MongoDB and MySQL. I enjoy building modern, high-performance web applications with clean architecture and best development practices. Constantly learning and exploring new tools, I work on personal projects to sharpen my skills and stay up to date with the latest in tech.</p>
 <h2>🛠️ Languages and Tools I Use</h2>
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px; margin: 20px 0;">
 
-<div> 
+
+
+<h3> Languages </h3> 
 <p>
   <img src="https://skillicons.dev/icons?i=c" alt="c" width="42" height="42" />
   <img src="https://skillicons.dev/icons?i=java" alt="java" width="42" height="42" />
@@ -12,12 +13,9 @@
   <img src="https://skillicons.dev/icons?i=python" alt="python" width="42" height="42" />
   <img src="https://skillicons.dev/icons?i=php" alt="php" width="42" height="42" />
 </p>
+<hr>
 
-</div>
-
-<div>
-
-### Front End 
+<h3> Front End </h3> 
 <p>
   <img src="https://skillicons.dev/icons?i=html" alt="html" width="42" height="42" />
   <img src="https://skillicons.dev/icons?i=css" alt="css" width="42" height="42" />
@@ -29,11 +27,11 @@
   <img src="https://skillicons.dev/icons?i=next" alt="nextjs" width="42" height="42" />
 </p>
 
-</div>
+<hr>
 
-<div>
 
-### Back End 
+
+<h3> Back End </h3>
 <p>
   <img src="https://skillicons.dev/icons?i=expressjs" alt="express" width="42" height="42" />
   <img src="https://skillicons.dev/icons?i=nestjs" alt="nestjs" width="42" height="42" />
@@ -41,11 +39,11 @@
   <img src="https://skillicons.dev/icons?i=flask" alt="flask" width="42" height="42" />
 </p>
 
-</div>
+<hr>
 
-<div>
 
-### Database 
+
+<h3> Database </h3> 
 <p>
   <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="42" height="42" />
   <img src="https://skillicons.dev/icons?i=postgresql" alt="postgresql" width="42" height="42" />
@@ -53,9 +51,7 @@
   <img src="https://www.svgrepo.com/show/303303/oracle-6-logo.svg" alt="oracle" width="42" height="42" />
 </p>
 
-</div>
 
-</div>
 <hr>
 <h3> Contact Me </h3>
 
