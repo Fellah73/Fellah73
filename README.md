@@ -1,7 +1,9 @@
 <h1>Hi, I'm Fellah Mohamed 👋 - A Passionate Full-Stack Developer</h1>
-<p>Coding with creativity and solving problems with passion</p>
+<p>I'm a 3rd year Software Engineering student passionate about full-stack web development. I have solid experience working with technologies like React, Next.js, Express.js, and NestJS, along with databases such as MongoDB and MySQL. I enjoy building modern, high-performance web applications with clean architecture and best development practices. Constantly learning and exploring new tools, I work on personal projects to sharpen my skills and stay up to date with the latest in tech.</p>
 <h2>🛠️ Languages and Tools I Use</h2>
-<p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
+<p>Front End </p>
+<hr>
+<p><p><img src="https://skillicons.dev/icons?i=c" alt="c" width="42" height="42" />
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="42" height="42" /></a>
