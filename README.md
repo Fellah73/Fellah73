@@ -61,13 +61,17 @@
   [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/mouh_flh)&nbsp;
    <a href="https://discord.com/users/1022462442917343282" target="_blanck"> 
    <img src="https://static.vecteezy.com/system/resources/previews/006/892/625/non_2x/discord-logo-icon-editorial-free-vector.jpg" alt="discord" width="42" height="42"/>
-   <a/>
-   <a href="https://www.facebook.com/profile.php?id=61576388386961" target="_blanck">                                                                                         <img src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Facebook_logo_%28square%29.png" alt="discord" width="42" height="42"/> 
+   <a/> 
+   <a href="https://www.facebook.com/profile.php?id=61576388386961" target="_blanck">                                                                                                                                      <img src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Facebook_logo_%28square%29.png" alt="discord" width="42" height="42"/> 
    <a/>
    <a href="https://fellah-mohamed.vercel.app" target="_blanck"> 
    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS23zc5LswrrOl23-2tDErz8lzXeK1T-jr8wg&s" alt="portfolio" width="42" height="42"/>
    <a/>  
 
 <hr>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Fellah73&show_icons=true&locale=en&layout=compact" alt="Fellah73" /></p>
