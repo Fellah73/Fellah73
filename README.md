@@ -51,6 +51,13 @@
   <img src="https://www.svgrepo.com/show/303303/oracle-6-logo.svg" alt="oracle" width="42" height="42" />
 </p>
 
+<hr>
+
+<h3> Other Tools </h3> 
+<p>
+  <img src="https://skillicons.dev/icons?i=eclipse,vscode,git,prisma,vercel,postman,powershell" alt="other_tools" width="42" height="42" />
+</p>
+
 
 <hr>
 <h3> Contact Me </h3>
