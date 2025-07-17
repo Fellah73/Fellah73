@@ -1,65 +1,37 @@
 <h1>Hi, I'm Fellah Mohamed 👋 - A Passionate Full-Stack Developer</h1>
+
 <p>I'm a 3rd year Software Engineering student passionate about full-stack web development. I have solid experience working with technologies like React, Next.js, Express.js, and NestJS, along with databases such as MongoDB and MySQL. I enjoy building modern, high-performance web applications with clean architecture and best development practices. Constantly learning and exploring new tools, I work on personal projects to sharpen my skills and stay up to date with the latest in tech.</p>
+
 <h2>🛠️ Languages and Tools I Use</h2>
 
-
-
 <h3> Languages </h3> 
-<p>
-  <img src="https://skillicons.dev/icons?i=c" alt="c" width="42" height="42" />
-  <img src="https://skillicons.dev/icons?i=java" alt="java" width="42" height="42" />
-  <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="42" height="42" />
-  <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="42" height="42" />
-  <img src="https://skillicons.dev/icons?i=python" alt="python" width="42" height="42" />
-  <img src="https://skillicons.dev/icons?i=php" alt="php" width="42" height="42" />
-</p>
+
+  [![Languages](https://skillicons.dev/icons?i=c,java,js,ts,python,php)](https://skillicons.dev)
+
 <hr>
 
 <h3> Front End </h3> 
-<p>
-  <img src="https://skillicons.dev/icons?i=html" alt="html" width="42" height="42" />
-  <img src="https://skillicons.dev/icons?i=css" alt="css" width="42" height="42" />
-  <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="42" height="42" />
-  <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="42" height="42" />
-  <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="42" height="42" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="42" height="42" />
-  <img src="https://skillicons.dev/icons?i=react" alt="react" width="42" height="42" />
-  <img src="https://skillicons.dev/icons?i=next" alt="nextjs" width="42" height="42" />
-</p>
-
+ 
+ [![Front End](https://skillicons.dev/icons?i=html,css,javascript,typescript,tailwind,bootstrap,react,nextjs)](https://skillicons.dev)
+  
 <hr>
-
-
 
 <h3> Back End </h3>
-<p>
-  <img src="https://skillicons.dev/icons?i=expressjs" alt="express" width="42" height="42" />
-  <img src="https://skillicons.dev/icons?i=nestjs" alt="nestjs" width="42" height="42" />
-  <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="42" height="42" />
-  <img src="https://skillicons.dev/icons?i=flask" alt="flask" width="42" height="42" />
-</p>
+  
+  [![Back End](https://skillicons.dev/icons?i=nodejs,expressjs,nestjs,flask)](https://skillicons.dev)
 
 <hr>
 
-
-
 <h3> Database </h3> 
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="42" height="42" />
-  <img src="https://skillicons.dev/icons?i=postgresql" alt="postgresql" width="42" height="42" />
-  <img src="https://skillicons.dev/icons?i=sqlite" alt="sqlite" width="42" height="42" />
-  <img src="https://www.svgrepo.com/show/303303/oracle-6-logo.svg" alt="oracle" width="42" height="42" />
-</p>
 
+  [![Databases](https://skillicons.dev/icons?i=mysql,postgresql,sqlite)](https://skillicons.dev)
+ 
 <hr>
 
 <h3> Other Tools </h3> 
 
   [![My Skills](https://skillicons.dev/icons?i=eclipse,vscode,git,prisma,vercel,postman,powershell)](https://skillicons.dev)
-  
-
-
-
+ 
 <hr>
 <h3> Contact Me </h3>
 
