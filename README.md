@@ -54,9 +54,10 @@
 <hr>
 
 <h3> Other Tools </h3> 
-<p>
-  <img src="https://skillicons.dev/icons?i=eclipse,vscode,git,prisma,vercel,postman,powershell" alt="other_tools" width="42" height="42" />
-</p>
+
+  [![My Skills](https://skillicons.dev/icons?i=eclipse,vscode,git,prisma,vercel,postman,powershell)](https://skillicons.dev)
+  
+
 
 
 <hr>
