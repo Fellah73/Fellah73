@@ -42,8 +42,6 @@
    <a href="https://discord.com/users/1022462442917343282" target="_blanck"> 
    <img src="https://skillicons.dev/icons?i=discord" alt="discord" width="42" height="42"/>
    <a/> 
-   <a href="https://www.facebook.com/profile.php?id=61576388386961" target="_blanck">                                                                                                                                      <img src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Facebook_logo_%28square%29.png" alt="discord" width="42" height="42"/> 
-   <a/>
    <a href="https://fellah-mohamed.vercel.app" target="_blanck"> 
    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS23zc5LswrrOl23-2tDErz8lzXeK1T-jr8wg&s" alt="portfolio" width="42" height="42"/>
    <a/>  
