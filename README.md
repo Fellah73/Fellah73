@@ -31,19 +31,21 @@
 <h3> Other Tools </h3> 
 
   [![My Skills](https://skillicons.dev/icons?i=eclipse,vscode,git,prisma,vercel,postman,powershell)](https://skillicons.dev)
- 
+   <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="discord" width="42" height="42"/>
+  
 <hr>
 <h3> Contact Me </h3>
 
    
   [![Uppwrok](https://img.icons8.com/?size=50&id=HKdmFbFm7xQV&format=png&color=000000)](https://www.upwork.com/freelancers/~0162ac80466bc23f26)&nbsp;
   [![Gmail](https://img.icons8.com/?size=50&id=P7UIlhbpWzZm&format=png&color=000000)](mailto:mohdev2025@gmail.com)&nbsp;
+  [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/mohamed-dev-08738a397/h)&nbsp;
   [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/mouh_flh)&nbsp;
    <a href="https://discord.com/users/1022462442917343282" target="_blanck"> 
    <img src="https://skillicons.dev/icons?i=discord" alt="discord" width="42" height="42"/>
    <a/> 
    <a href="https://fellah-mohamed.vercel.app" target="_blanck"> 
-   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS23zc5LswrrOl23-2tDErz8lzXeK1T-jr8wg&s" alt="portfolio" width="42" height="42"/>
+   <img src="https://files.edgestore.dev/643tuked7tdgupmf/publicFiles/_public/3b0d0313-a6fc-472a-b7c6-3613aff8af92.png" alt="portfolio" width="42" height="42"/>
    <a/>  
 
 <hr>
