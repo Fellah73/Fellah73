@@ -30,7 +30,7 @@
 
 <h3> Other Tools </h3> 
 
-  [![My Skills](https://skillicons.dev/icons?i=eclipse,vscode,git,prisma,vercel,postman,powershell)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=figma,eclipse,vscode,git,prisma,vercel,postman,powershell)](https://skillicons.dev)
    <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="discord" width="42" height="42"/>
   
 <hr>
