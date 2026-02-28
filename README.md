@@ -46,7 +46,8 @@
    <a/> 
    <a href="https://fellah-mohamed.vercel.app" target="_blanck"> 
    <img src="https://files.edgestore.dev/643tuked7tdgupmf/publicFiles/_public/3b0d0313-a6fc-472a-b7c6-3613aff8af92.png" alt="portfolio" width="42" height="42"/>
-   <a/>  
+   <a/>
+   [![Figma](https://skillicons.dev/icons?i=figma)](https://www.figma.com/@fellahmohamed)&nbsp;
 
 <hr>
 <picture>
