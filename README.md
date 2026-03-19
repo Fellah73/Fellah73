@@ -2,37 +2,52 @@
 
 <p>I'm a 4th year Software Engineering student passionate about full-stack web development. I have solid experience working with technologies like React, Next.js, Express.js, and NestJS, along with databases such as MongoDB and MySQL. I enjoy building modern, high-performance web applications with clean architecture and best development practices. Constantly learning and exploring new tools, I work on personal projects to sharpen my skills and stay up to date with the latest in tech.</p>
 
-<h2>🛠️ Languages and Tools I Use</h2>
+<h2>Skills</h2>
 
-<h3> Languages </h3> 
+<table>
+  <tr>
+    <td align="start">
+      <h3>Languages</h3>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=c,java,js,ts,python,php" />
+      </a>
+    </td>
+    <td align="start">
+      <h3>Front End</h3>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" />
+      </a>
+    </td>
+    <td align="start">
+      <h3>Back End</h3>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=nodejs,expressjs,nestjs,spring,flask" />
+      </a>
+    </td>
+  </tr>
 
-  [![Languages](https://skillicons.dev/icons?i=c,java,js,ts,python,php)](https://skillicons.dev)
+  <tr>
+    <td align="start">
+      <h3>Database</h3>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite,mongo" />
+      </a>
+    </td>
+     <td align="start">
+      <h3> Other Tools </h3>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=vscode,git,prisma,vercel,postman,powershell" />
+      </a>
+    </td>
+    <td align="start">
+      <h3> Desgin </h3>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=figma" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-<hr>
-
-<h3> Front End </h3> 
- 
- [![Front End](https://skillicons.dev/icons?i=html,css,javascript,typescript,tailwind,bootstrap,react,nextjs)](https://skillicons.dev)
-  
-<hr>
-
-<h3> Back End </h3>
-  
-  [![Back End](https://skillicons.dev/icons?i=nodejs,expressjs,nestjs,spring,flask)](https://skillicons.dev)
-
-<hr>
-
-<h3> Database </h3> 
-
-  [![Databases](https://skillicons.dev/icons?i=mysql,postgresql,sqlite)](https://skillicons.dev)
- 
-<hr>
-
-<h3> Other Tools </h3> 
-
-  [![My Skills](https://skillicons.dev/icons?i=figma,eclipse,vscode,git,prisma,vercel,postman,powershell)](https://skillicons.dev)
-   <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="discord" width="42" height="42"/>
-  
 <hr>
 <h3> Contact Me </h3>
 
@@ -45,13 +60,9 @@
    <img src="https://skillicons.dev/icons?i=discord" alt="discord" width="42" height="42"/>
    <a/> 
    <a href="https://fellah-mohamed.vercel.app" target="_blanck"> 
-   <img src="https://files.edgestore.dev/643tuked7tdgupmf/publicFiles/_public/3b0d0313-a6fc-472a-b7c6-3613aff8af92.png" alt="portfolio" width="42" height="42"/>
+   <img src="https://files.edgestore.dev/643tuked7tdgupmf/publicFiles/_public/39c6b245-461f-4b4f-a07a-8b3f33a64315.png" alt="portfolio" width="42" height="42"/>
    <a/>
-   [![Figma](https://skillicons.dev/icons?i=figma)](https://www.figma.com/@fellahmohamed)&nbsp;
-   <a href="https://dribbble.com/fellah-mohamed" target="_blanck"> 
-   <img src="https://cdn-icons-png.flaticon.com/512/4423/4423623.png" alt="portfolio" width="42" height="42"/>
-   <a/>
-
+  
 <hr>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
