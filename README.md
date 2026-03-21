@@ -58,7 +58,7 @@ Constantly learning and exploring new tools, I work on **personal projects** to 
 
    
   [![Gmail](https://img.icons8.com/?size=50&id=P7UIlhbpWzZm&format=png&color=000000)](mailto:mohdev2025@gmail.com)&nbsp;
-  [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/mohamed-dev-08738a397/h)&nbsp;
+  [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/fellah-mohamed-saci-08738a397)&nbsp;
   [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/mouh_flh)&nbsp;
    <a href="https://fellah-mohamed.vercel.app" target="_blanck"> 
    <img src="https://files.edgestore.dev/643tuked7tdgupmf/publicFiles/_public/39c6b245-461f-4b4f-a07a-8b3f33a64315.png" alt="portfolio" width="42" height="42"/>
