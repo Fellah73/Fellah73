@@ -41,14 +41,14 @@ Constantly learning and exploring new tools, I work on **personal projects** to 
       <h3> Other Tools </h3>
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=vscode,git,prisma,vercel,postman,powershell" />
-        <img src="https://skill-icons-web.vercel.app/skill-icons/icons/Netlify-Dark.svg" />
+        <img src="https://skill-icons-web.vercel.app/skill-icons/icons/Netlify-Dark.svg" width="48" height="48" alt="Netlify Icon" />
       </a>
     </td>
     <td align="start">
       <h3> Desgin </h3>
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=figma" />
-        <img src="https://cdn-icons-png.flaticon.com/512/4423/4423623.png" alt="portfolio" width="42" height="42"/>
+        <img src="https://cdn-icons-png.flaticon.com/512/4423/4423623.png" alt="portfolio" width="38" height="38"/>
       </a>
     </td>
   </tr>
