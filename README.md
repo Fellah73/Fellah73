@@ -41,6 +41,7 @@ Constantly learning and exploring new tools, I work on **personal projects** to 
       <h3> Other Tools </h3>
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=vscode,git,prisma,vercel,postman,powershell" />
+        <img src="https://skill-icons-web.vercel.app/skill-icons/icons/Netlify-Dark.svg" />
       </a>
     </td>
     <td align="start">
